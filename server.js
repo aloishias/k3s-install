@@ -12,5 +12,5 @@ app.use(function(req, res, next) {
     next();
 });
 
-app.get('/messageepsi', (req, res) => { res.send("hello") });
+app.get('/hello', (req, res) => { res.send({"messageepsi":"hello"}) });
 app.listen(3000);
