@@ -148,4 +148,11 @@ Dashboard: http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services
 
 # Deploy App on Kubernetes
 
-In progress
+### Create new ressource
+![Create new ressource](https://cdn.discordapp.com/attachments/515153967693561858/633635042006007809/unknown.png)
+
+### Fill form
+![Fill form](https://cdn.discordapp.com/attachments/515153967693561858/633635497272541204/unknown.png)
+
+### Workload Status should be 100%
+![Workload](https://cdn.discordapp.com/attachments/515153967693561858/633635871618498586/unknown.png)
