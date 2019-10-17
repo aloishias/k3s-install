@@ -149,10 +149,13 @@ Dashboard: http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services
 # Deploy App on Kubernetes
 
 ### Create new ressource
-![Create new ressource](https://cdn.discordapp.com/attachments/515153967693561858/633635042006007809/unknown.png)
+![Create new ressource](https://puu.sh/Etyr0/020a3b0c63.png)
 
 ### Fill form
-![Fill form](https://cdn.discordapp.com/attachments/515153967693561858/633635497272541204/unknown.png)
+![Fill form](https://puu.sh/EtyrA/860db48901.png)
 
 ### Workload Status should be 100%
-![Workload](https://cdn.discordapp.com/attachments/515153967693561858/633635871618498586/unknown.png)
+![Workload](https://puu.sh/EtyrH/b425e3be5d.png)
+
+### Service is auto-generated
+![Services](https://puu.sh/EtyrU/ba0fb8a6b9.png)
