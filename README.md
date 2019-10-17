@@ -134,7 +134,7 @@ subjects:
 ##### Apply configs
 ```
 master# kubectl apply sa.yaml
-master# kubectl apply cbl.yaml
+master# kubectl apply crb.yaml
 ```
 
 ### Connect to dashboard
