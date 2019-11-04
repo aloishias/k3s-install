@@ -10,7 +10,7 @@ $ service docker start
 
 ### Build and run docker
 ```
-$ git clone https://github.com/fabien-reaud/docker-api /home/projets/dnocker-api
+$ git clone https://github.com/fabien-renaud/docker-api /home/projets/docker-api
 $ cd /home/projets/docker-api
 $ docker build . -t docker-api
 $ docker run -d -p 3000:3000 --name docker-api docker-api
